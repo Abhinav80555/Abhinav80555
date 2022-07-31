@@ -23,9 +23,9 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="html5" width="90" height="30"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-CSS-764ABC?style=flat-square&logo=CSS3&logoColor=white" alt="css3" width="90" height="30"/></a>
    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="heroku" width="90" height="30"/> </a>
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" height="30" />
     <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" width="90" height="30" /> 
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"  width="90" height="30"/>
+    <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" height="30" />
    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" width="90" height="30"/>
    <img alt="MUI" src="https://img.shields.io/badge/-Material%20UI-007ACC?style=flat-square&logo=mui&logoColor=white" height="30"/>
    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Postman-E34F26?style=flat-square&logo=postman&logoColor=white" alt="postman" height="30"/> </a>

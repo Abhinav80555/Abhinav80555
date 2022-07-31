@@ -9,7 +9,7 @@
  
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Abhinav, Fullstack developer with the right mix of Functional programming from <img src="https://flagcdn.com/in.svg" width="18"/> <b>Chennai, Tamil Nadu.</b> 
+<p>Welcome to my page! </br> I'm <b>Abhinav, MERN Fullstack developer</b> from <img src="https://flagcdn.com/in.svg" width="18"/> <b>Chennai, Tamil Nadu.</b> 
 <br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning and waiting for a platform to work.</p>
 
 ## ⚡ Things I code with
@@ -27,6 +27,7 @@
     <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" width="90" height="30" /> 
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"  width="90" height="30"/>
    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" width="90" height="30"/>
+   <img alt="MUI" src="https://img.shields.io/badge/-Material%20UI-007ACC?style=flat-square&logo=mui&logoColor=white" height="30"/>
    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Postman-E34F26?style=flat-square&logo=postman&logoColor=white" alt="postman" height="30"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=black" alt="javascript" height="30"/> </a>   
  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="30"/> </a> </p>

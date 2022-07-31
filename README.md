@@ -1,4 +1,12 @@
-
+  <a href="https://app.daily.dev/ragavkumarv">
+    <img
+      width="400"
+      align="right"
+      src="https://github.com/Abhinav80555/Abhinav80555/blob/main/devcard.svg"
+      alt="Abhinav's Dev Card"
+    />
+  </a>
+ 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Abhinav, Fullstack developer with the right mix of Functional programming from <img src="https://flagcdn.com/in.svg" width="18"/> <b>Chennai, Tamil Nadu.</b> 

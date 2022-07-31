@@ -25,8 +25,7 @@
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
 <a href="https://twitter.com/abhinavsekar801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavsekar801" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/abhinav-s-117153247
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhinav-s-117153247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav s" height="30" width="40" /></a>
 <a href="https://instagram.com/abhinav_sekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhinav_sekar" height="30" width="40" /></a>
 </p>
 

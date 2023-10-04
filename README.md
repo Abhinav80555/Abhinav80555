@@ -1,11 +1,5 @@
-  <a href="https://app.daily.dev/iamabhinav">
-    <img
-      width="400"
-      align="right"
-      src="https://github.com/Abhinav80555/Abhinav80555/blob/main/devcard.svg"
-      alt="Abhinav's Dev Card"
-    />
-  </a>
+  
+  <a href="https://app.daily.dev/iamabhinav"><img src="https://api.daily.dev/devcards/5c675057f9254d80954a99e77a5a56b2.png?r=zxy" width="400" alt="abhinav's Dev Card"/></a>
  
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 

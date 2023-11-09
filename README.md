@@ -2,7 +2,7 @@
     <img
       width="400"
       align="right"
-      src="https://api.daily.dev/devcards/5c675057f9254d80954a99e77a5a56b2.png?r=zxy"
+      src="https://api.daily.dev/devcards/5c675057f9254d80954a99e77a5a56b2.png?r=e10"
       alt="Abhinav's Dev Card"
     />
   </a>  

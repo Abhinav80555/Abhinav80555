@@ -2,8 +2,7 @@
     <img
       width="400"
       align="right"
-      src="https://api.daily.dev/devcards/5c675057f9254d80954a99e77a5a56b2.png?r=e10"
-      alt="Abhinav's Dev Card"
+src="https://api.daily.dev/devcards/v2/DB5v4vegMxufssb99Inhn.png?type=default&r=pwp"      alt="Abhinav's Dev Card"
     />
   </a>  
 <!--   <a href="https://app.daily.dev/iamabhinav"><img src="https://api.daily.dev/devcards/5c675057f9254d80954a99e77a5a56b2.png?r=zxy" width="400" alt="abhinav's Dev Card"/></a>

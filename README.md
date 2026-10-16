@@ -30,7 +30,7 @@ What I'm up to
 - Before: Full stack @ Augray — enterprise clients, REST APIs, multi-tenant auth, PostgreSQL/MongoDB, dealer CRM (Shalimar Paints).
 - Side builds: Python RAG booklet reader, MongoDB ↔ Cursor via MCP, and whatever breaks in prod on a Friday.
 
-Stack I use day to day
+⚡ Things I code with
 
 <h3 align="left">Languages & runtimes</h3>
 <p align="left">
@@ -91,15 +91,40 @@ Stack I use day to day
 <img alt="contribution" src="https://github.com/Abhinav80555/Abhinav80555/blob/output/github-contribution-grid-snake.svg" />
 
 
-GitHub stats
+😄 Cool Stats
 
-Abhinav's GitHub stats
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Abhinav80555&show_icons=true&theme=radical&hide_border=false&include_all_commits=true"
+    alt="Abhinav's GitHub stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.demolab.com/?user=Abhinav80555&theme=radical&hide_border=false"
+    alt="GitHub Streak"
+    height="165"
+  />
+</p>
 
-GitHub Streak
 
-Top Langs
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav80555&layout=compact&theme=radical&langs_count=8&hide_border=false"
+    alt="Top Langs"
+    height="165"
+  />
+</p>
 
-<h2 align="left">Connect</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav80555&theme=react-dark&hide_border=true&area=true"
+    alt="GitHub activity graph"
+  />
+</p>
+
+
+<h2 align="left">Connect with me ❤️</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/abhinavsekar/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>

@@ -1,27 +1,46 @@
-<a href="https://app.daily.dev/iamabhinav">
-  <img
-    width="400"
-    align="right"
-    src="https://api.daily.dev/devcards/5c675057f9254d80954a99e77a5a56b2.png?r=e10"
-    alt="Abhinav's Dev Card"
-  />
-</a>
+<table>
+  <tr>
+    <td valign="top">
+      <p align="left" style="margin: 0 0 4px 0; line-height: 1.2;">
+        <img
+          src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
+          width="28"
+          valign="middle"
+          alt=""
+        />
+        <span style="font-size: 2em; font-weight: 700; vertical-align: middle;">Abhinav</span>
+      </p>
+      <p
+        align="left"
+        style="margin: 0 0 12px 0; font-size: 0.95em; font-weight: 500; color: #a371f7; font-family: 'Courier New', Courier, monospace;"
+      >
+        build, ship, iterate
+      </p>
+      <p align="left" style="margin: 0;">
+        Full-stack engineer from
+        <img src="https://flagcdn.com/in.svg" width="18" alt="India" />
+        <b>Chennai, Tamil Nadu</b> — this repo is my lab for personal projects and
+        experiments.<br />
+        I work mainly with <b>React / Next.js</b>, <b>Python & Node.js</b>, and
+        <b>PostgreSQL / MongoDB</b>, and I lean into <b>GenAI</b> when it fits:
+        streaming LLM UX, RAG over documents, MCP-backed data access. Clear code,
+        small sharp tools, and products that earn their place in the stack.
+      </p>
+    </td>
+    <td align="right" valign="top" width="340">
+      <a href="https://app.daily.dev/iamabhinav">
+        <img
+          width="320"
+          src="https://api.daily.dev/devcards/5c675057f9254d80954a99e77a5a56b2.png?r=e10"
+          alt="Abhinav's Dev Card"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
-<h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Abhinav · build, ship, iterate
-</h1>
-
-
-<p>
-  Full-stack engineer from
-  <img src="https://flagcdn.com/in.svg" width="18"/> <b>Chennai, Tamil Nadu</b> —
-  this repo is my lab for personal projects and experiments.<br/>
-  I work mainly with <b>React / Next.js</b>, <b>Python & Node.js</b>, and <b>PostgreSQL / MongoDB</b>,
-  and I lean into <b>GenAI</b> when it fits: streaming LLM UX, RAG over documents, MCP-backed data access.
-  Clear code, small sharp tools, and products that earn their place in the stack.
-</p>
+<hr style="border: 0; height: 2px; background: #30363d; margin: 18px 0 16px;" />
 
 
 What I'm up to
